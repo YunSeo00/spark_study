@@ -1,6 +1,8 @@
 .idea
 
 # 예시 데이터 업로드 무시
-Chap3/sf-fire-calls.csv
-Chap4/departuredelays.csv
-Chap10/sf-airbnb-clean.parquet
+data
+
+# mlflow data
+Chap11/mlruns
+Chap11/feature-importance.csv
